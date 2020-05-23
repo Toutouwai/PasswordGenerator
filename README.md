@@ -9,7 +9,7 @@ A module for ProcessWire CMS/CMF. Adds a password generator to InputfieldPasswor
 
 [Install](http://modules.processwire.com/install-uninstall/) the Password Generator module.
 
-Now any InputfieldPassword has a password generation feature. The settings for the generator are taken automatically from the settings* of the password field.
+Now any InputfieldPassword has a password generation feature. The settings for the generator are taken automatically from the settings* of the password field, or you can configure the generator settings in the module config.
 
 *Settings not supported by the generator:
 
