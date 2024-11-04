@@ -1,9 +1,8 @@
 # Password Generator
 
-A module for ProcessWire CMS/CMF. Adds a password generator to InputfieldPassword.
+Adds a password generator to InputfieldPassword.
 
-
-![generator](https://user-images.githubusercontent.com/1538852/31315139-c80089c2-ac6e-11e7-91dd-778be3302dc8.gif)
+![pg](https://github.com/user-attachments/assets/05e602a4-8364-4ab8-bb84-81a7f7139369)
 
 ## Usage
 
